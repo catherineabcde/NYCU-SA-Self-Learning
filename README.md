@@ -9,7 +9,7 @@ This repository documents my self-study notes and progress for the System Admini
 ## Daily Progress Log
 * [View the detailed of daily study log](./log.md)
 
-## Course Notes Index (HackMD Links)
+## Course Notes Index
 
 | Week     | Topic                               | Relevant Links                               |
 | :------- | :---------------------------------- | :---------------------------------------------- |
