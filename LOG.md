@@ -1,7 +1,5 @@
 # SA Course Self-Study Log
 
----
-
 ### Thurseday, July 10, 2025
 
 * **Today's Progress**:
