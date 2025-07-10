@@ -6,7 +6,7 @@
 
 * **Today's Progress**:
     * Build up connection to NYCU workstation 
-    * Studied "vim" command ('vimtutor')
+    * Studied "vim" command (`vimtutor`)
     * Practice unix basic command (https://it.cs.nycu.edu.tw/unix-basic-commands)
 * **HackMD Notes Link**:
     * Unix 指令 (https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g)
