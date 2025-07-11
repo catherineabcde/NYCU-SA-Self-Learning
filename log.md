@@ -16,7 +16,7 @@
         <ol>
           <li>Build up connection to NYCU workstation</li>
           <li>Studied "vim" command (<code>vimtutor</code>)</li>
-          <li>Practice unix basic command (https://cs.nycu.edu.tw/~unix/basic-commands)</li>
+          <li>Practice <a href="https://cs.nycu.edu.tw/~unix/basic-commands">unix basic command </li>
         </ol>
       </td>
       <td>
@@ -33,7 +33,7 @@
       <td>2025-07-11</td>
       <td>
         <ol>
-          <li>Install FreeBSD on VirtualBox(https://nasa.cs.nycu.edu.tw/sa/2024/slides/01_Install_FreeBSD.pdf)</li>
+          <li>Install <a href="https://nasa.cs.nycu.edu.tw/sa/2024/slides/01_Install_FreeBSD.pdf">FreeBSD on VirtualBox</li>
           <li>Finished the instructions in HW1(https://nasa.cs.nycu.edu.tw/sa/2024/slides/hw1.pdf)</li>
         </ol>
       </td>
