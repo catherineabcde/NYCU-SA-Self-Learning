@@ -19,17 +19,16 @@
       <td>
         <ol>
           <li>Build up connection to NYCU workstation</li>
-          <li>Studied "vim" command (vimtutor)</li>
+          <li>Studied "vim" command (`vimtutor`)</li>
           <li>Practice unix basic command (https://cs.nycu.edu.tw/~unix/basic-commands)</li>
         </ol>
       </td>
       <td>
-        之前寫筆記時都習慣用 vim 的指令，現在要全部從頭學感覺變得更上手了。<br><br>
-        1. 安裝 FreeBSD 時即使成功利用 UEFI 啟動，一直沒辦法成功安裝，嘗試了比較穩的 Release 與 VirtualBox 版本，嘗試把這些代替項 Ubuntu 都沒辦法成功。最後推測原因為我下載的 iso 檔與我的電腦本身作業系統架構不相容。具體來說，我的電腦是 Apple 的 M2 晶片 (ARM64 架構)，但我下載的是 x86_64 (AMD64) 的 iso 檔。
+        之前就有學過一點點 vim 的指令。現在更全面性地整理與學習覺得更加上手了☺️<br><br>
       </td>
     </tr>
     <tr>
-      <td>2025-07-10</td>
+      <td>2025-07-11</td>
       <td>
         <ol>
           <li>Build up connection to NYCU workstation</li>
