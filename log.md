@@ -34,12 +34,12 @@
       <td>
         <ol>
           <li>Install <a href="https://nasa.cs.nycu.edu.tw/sa/2024/slides/01_Install_FreeBSD.pdf">FreeBSD on VirtualBox</li>
-          <li>Finished the instructions in HW1(https://nasa.cs.nycu.edu.tw/sa/2024/slides/hw1.pdf)</li>
+          <li>Finished the instructions in <a href="https://nasa.cs.nycu.edu.tw/sa/2024/slides/hw1.pdf">HW1</li>
         </ol>
       </td>
       <td>
         <ol>
-          <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g">Install FreeBSD using VirtualBox</li>
+          <a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g">Install FreeBSD using VirtualBox</li>
         </ol>
       </td>
       <td>
