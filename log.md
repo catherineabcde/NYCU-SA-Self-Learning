@@ -8,7 +8,7 @@
 <table>
   <thead>
     <tr>
-      <th style="width: 10%;">Date</th>
+      <th>Date</th>
       <th>Progress & Topic</th>
       <th>HackMD Link</th>
       <th style="width: 50%;">Thoughts & Issues</th>
@@ -26,8 +26,8 @@
       </td>
       <td>
         <ol>
-          <li>[Unix 指令](https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g)</li>
-          <li>[vimtutor](https://hackmd.io/XbgWnIVKTAqq-djge6OCgA)</li>
+          <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g">Unix 指令</li>
+          <li><a href="https://hackmd.io/XbgWnIVKTAqq-djge6OCgA">vimtutor</li>
         </ol>
       </td>
       <td>
@@ -44,7 +44,7 @@
       </td>
       <td>
         <ol>
-          <li>[Install FreeBSD using VirtualBox](https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg)</li>
+          <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">Install FreeBSD using VirtualBox</li>
         </ol>
       </td>
       <td>
