@@ -11,7 +11,7 @@
       <th style="width: 10%;">Date</th>
       <th>Progress & Topic</th>
       <th>HackMD Link</th>
-      <th>Thoughts & Issues</th>
+      <th style="width: 50%;">Thoughts & Issues</th>
     </tr>
   </thead>
   <tbody>
