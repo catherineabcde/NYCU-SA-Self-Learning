@@ -39,7 +39,7 @@
       </td>
       <td>
         <ol>
-          <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">Install FreeBSD using VirtualBox</li>
+          <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g">Install FreeBSD using VirtualBox</li>
         </ol>
       </td>
       <td>
