@@ -10,6 +10,7 @@
     <tr>
       <th style="width: 10%;">Date</th>
       <th>Progress & Topic</th>
+      <th>HackMD Link</th>
       <th>Thoughts & Issues</th>
     </tr>
   </thead>
@@ -19,8 +20,14 @@
       <td>
         <ol>
           <li>Build up connection to NYCU workstation</li>
-          <li>Studied "vim" command (`vimtutor`)</li>
+          <li>Studied "vim" command (<code>vimtutor</code>)</li>
           <li>Practice unix basic command (https://cs.nycu.edu.tw/~unix/basic-commands)</li>
+        </ol>
+      </td>
+      <td>
+        <ol>
+          <li>[Unix 指令](https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g)</li>
+          <li>[vimtutor](https://hackmd.io/XbgWnIVKTAqq-djge6OCgA)</li>
         </ol>
       </td>
       <td>
@@ -31,14 +38,20 @@
       <td>2025-07-11</td>
       <td>
         <ol>
-          <li>Build up connection to NYCU workstation</li>
-          <li>Studied "vim" command (vimtutor)</li>
-          <li>Practice unix basic command (https://cs.nycu.edu.tw/~unix/basic-commands)</li>
+          <li>Install FreeBSD on VirtualBox(https://nasa.cs.nycu.edu.tw/sa/2024/slides/01_Install_FreeBSD.pdf)</li>
+          <li>Finished the instructions in HW1(https://nasa.cs.nycu.edu.tw/sa/2024/slides/hw1.pdf)</li>
         </ol>
       </td>
       <td>
-        之前寫筆記時都習慣用 vim 的指令，現在要全部從頭學感覺變得更上手了。<br><br>
-        1. 安裝 FreeBSD 時即使成功利用 UEFI 啟動，一直沒辦法成功安裝，嘗試了比較穩的 Release 與 VirtualBox 版本，嘗試把這些代替項 Ubuntu 都沒辦法成功。最後推測原因為我下載的 iso 檔與我的電腦本身作業系統架構不相容。具體來說，我的電腦是 Apple 的 M2 晶片 (ARM64 架構)，但我下載的是 x86_64 (AMD64) 的 iso 檔。
+        <ol>
+          <li>[Install FreeBSD using VirtualBox](https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg)</li>
+        </ol>
+      </td>
+      <td>
+        <ol>
+          <li>安裝 FreeBSD 時即使成功利用 UEFI 啟動但一直沒辦法成功安裝，嘗試了比較舊的 Release 與 VirtualBox 版本、嘗試改成替代選項 Ubuntu 都沒辦法成功。最後發現是因為我下載的 iso 檔與我的電腦本機作業系統架構不相容。具體來說，我的電腦是 Apple 的 M2 晶片 (ARM64 架構)，但我下載的 iso 檔是 amd64，專門設計給 Intel/AMD 的電腦 (x86-64 架構)。原本想的是使用 VirtualBox 一樣可以相容，後來想到虛擬機硬體等設定還是依賴本機，必定會有影響。之後下載 arm64 架構的 iso 檔就順利安裝 FreeBSD 了！</li>
+          <li>作業中要求建立指定名稱的使用者與群組，在建立群組時取錯名字，後來用修改明字的指令輸入錯誤，導致產生了兩個群組 (一個正確名稱、一個錯誤名稱的群組)，之後查詢如何將群組刪除並下達正確指令，最後也成功將錯誤名稱的群組刪除，並順利將使用者加入我創建的群組中。🥹</li>
+        </ol>
       </td>
     </tr>
     </tbody>
