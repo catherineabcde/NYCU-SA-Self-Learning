@@ -59,9 +59,7 @@
       </td>
       <td>
         <ol>
-          <li> <a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">UEFI, UFS, and ZFS</li>
-        </ol>
-        <ol>
+          <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">UEFI, UFS, and ZFS</li>
           <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">File System and Virtual File System</li>
         </ol>
       </td>
