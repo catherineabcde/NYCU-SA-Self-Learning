@@ -59,15 +59,15 @@
       </td>
       <td>
         <ol>
-          <a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">UEFI, UFS, and ZFS</li>
+          <li> <a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">UEFI, UFS, and ZFS</li>
         </ol>
         <ol>
-          <a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">File System and Virtual File System</li>
+          <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">File System and Virtual File System</li>
         </ol>
       </td>
       <td>
         <ol>
-          <li>藉由這個機會深入認識磁碟分區並複習之前學過的檔案系統的概念覺得很棒！</li>
+          藉由這個機會深入認識磁碟分區並複習之前學過的檔案系統的概念覺得很棒！
         </ol>
       </td>
     </tr>
