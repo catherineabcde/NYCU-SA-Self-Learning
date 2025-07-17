@@ -69,5 +69,25 @@
         </ol>
       </td>
     </tr>
+    <tr>
+      <td>2025-07-17</td>
+      <td>
+        <ol>
+          <li>Study Firmware and Storage Framework</li>
+          <li>Review Operating System: Virtual File System</li>
+        </ol>
+      </td>
+      <td>
+        <ol>
+          <li><a href="https://hackmd.io/U2ClOuCoSKO8W9BF2u4vwg?view">韌體與儲存框架</li>
+          <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">File System and Virtual File System</li>
+        </ol>
+      </td>
+      <td>
+        <ol>
+          過去學習作業系統只有大致了解整體架構，現在更深入的藉由實例了解他們之間的互動關係。
+        </ol>
+      </td>
+    </tr>
     </tbody>
 </table>
