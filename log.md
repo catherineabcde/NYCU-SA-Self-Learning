@@ -59,7 +59,7 @@
       </td>
       <td>
         <ol>
-          <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">UEFI, UFS, and ZFS</li>
+          <li><a href="https://hackmd.io/qy_E3o9tQZue_h324Pq1mA?view">底層磁碟區</li>
           <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">File System and Virtual File System</li>
         </ol>
       </td>
