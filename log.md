@@ -59,7 +59,7 @@
       </td>
       <td>
         <ol>
-          <li><a href="https://hackmd.io/qy_E3o9tQZue_h324Pq1mA?view">底層磁碟區</li>
+          <li><a href="https://hackmd.io/@JCH/BJF6-kULge">底層磁碟分區</li>
           <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">File System and Virtual File System</li>
         </ol>
       </td>
@@ -79,13 +79,34 @@
       </td>
       <td>
         <ol>
-          <li><a href="https://hackmd.io/U2ClOuCoSKO8W9BF2u4vwg?view">韌體與儲存框架</li>
-          <li><a href="https://hackmd.io/UhlqyrsbRDuQil3DDhtW0g](https://hackmd.io/fIlGLmSVRbewJuD7RrZ8Wg">File System and Virtual File System</li>
+          <li><a href="https://hackmd.io/@JCH/r1muxZIIgl">韌體與儲存框架</li>
+          <li><a href="https://hackmd.io/@JCH/SkdFQrSLee">File System and Virtual File System</li>
         </ol>
       </td>
       <td>
         <ol>
           過去學習作業系統只有大致了解整體架構，現在更深入的藉由實例了解他們之間的互動關係。
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>2025-07-18</td>
+      <td>
+        <ol>
+          <li>Review tmux and Git</li>
+          <li>Review Operating System: Process</li>
+        </ol>
+      </td>
+      <td>
+        <ol>
+          <li><a href="https://hackmd.io/@JCH/rkPf_Yw8ge">tmux</li>
+          <li><a href="https://hackmd.io/@JCH/HyCtyAw8gx">Git three stages and file lifecycle</li>
+          <li><a href="https://hackmd.io/@JCH/S1AHX6DUlx">Process</li>
+        </ol>
+      </td>
+      <td>
+        <ol>
+          之前使用 tmux 跟 git 比較偏向會使用指令但不太了解為什麼能夠做到斷線後仍能恢復原本的工作與版本控制，這次學習補足了之前沒學到的部分！
         </ol>
       </td>
     </tr>
